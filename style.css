@@ -1,5 +1,11 @@
 .botoncito{
-    background: blue;
+    width: 100px;
+    height: 29px;
+    background: #6969ff;
     color: white;
+    border-radius: 5px;
+    box-shadow: 3px 2px 15px #0d0c0c;
     font-weight: 600;
+    border: none;
+
 }
